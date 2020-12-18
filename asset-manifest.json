@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/game-timer/static/css/main.abeed6ab.chunk.css",
-    "main.js": "/game-timer/static/js/main.d15951b7.chunk.js",
-    "main.js.map": "/game-timer/static/js/main.d15951b7.chunk.js.map",
+    "main.js": "/game-timer/static/js/main.a8e4df6d.chunk.js",
+    "main.js.map": "/game-timer/static/js/main.a8e4df6d.chunk.js.map",
     "runtime-main.js": "/game-timer/static/js/runtime-main.489b8485.js",
     "runtime-main.js.map": "/game-timer/static/js/runtime-main.489b8485.js.map",
     "static/js/2.3cb92260.chunk.js": "/game-timer/static/js/2.3cb92260.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.489b8485.js",
     "static/js/2.3cb92260.chunk.js",
     "static/css/main.abeed6ab.chunk.css",
-    "static/js/main.d15951b7.chunk.js"
+    "static/js/main.a8e4df6d.chunk.js"
   ]
 }
