@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/game-timer/static/css/main.abeed6ab.chunk.css",
+    "main.js": "/game-timer/static/js/main.d15951b7.chunk.js",
+    "main.js.map": "/game-timer/static/js/main.d15951b7.chunk.js.map",
+    "runtime-main.js": "/game-timer/static/js/runtime-main.489b8485.js",
+    "runtime-main.js.map": "/game-timer/static/js/runtime-main.489b8485.js.map",
+    "static/js/2.3cb92260.chunk.js": "/game-timer/static/js/2.3cb92260.chunk.js",
+    "static/js/2.3cb92260.chunk.js.map": "/game-timer/static/js/2.3cb92260.chunk.js.map",
+    "static/js/3.85ea12f5.chunk.js": "/game-timer/static/js/3.85ea12f5.chunk.js",
+    "static/js/3.85ea12f5.chunk.js.map": "/game-timer/static/js/3.85ea12f5.chunk.js.map",
+    "index.html": "/game-timer/index.html",
+    "static/css/main.abeed6ab.chunk.css.map": "/game-timer/static/css/main.abeed6ab.chunk.css.map",
+    "static/js/2.3cb92260.chunk.js.LICENSE.txt": "/game-timer/static/js/2.3cb92260.chunk.js.LICENSE.txt",
+    "static/js/3.85ea12f5.chunk.js.LICENSE.txt": "/game-timer/static/js/3.85ea12f5.chunk.js.LICENSE.txt",
+    "static/media/fastTick.1be3e048.mp3": "/game-timer/static/media/fastTick.1be3e048.mp3",
+    "static/media/timeUp.3c7a3b3d.mp3": "/game-timer/static/media/timeUp.3c7a3b3d.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.489b8485.js",
+    "static/js/2.3cb92260.chunk.js",
+    "static/css/main.abeed6ab.chunk.css",
+    "static/js/main.d15951b7.chunk.js"
+  ]
+}
